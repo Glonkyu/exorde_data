@@ -6,10 +6,6 @@
 	path = modules/ch4875eda56be56000ac
 	url = https://github.com/exorde-labs/ch4875eda56be56000ac.git
 	branch = main
-[submodule "modules/a7df32de3a60dfdb7a0b"]
-	branch = main
-	path = modules/a7df32de3a60dfdb7a0b
-	url = https://github.com/Glonkyu/a7df32de3a60dfdb7a0b.git
 [submodule "modules/hackbc9419ab11eebe56"]
 	path = modules/hackbc9419ab11eebe56
 	url = https://github.com/exorde-labs/hackbc9419ab11eebe56.git
